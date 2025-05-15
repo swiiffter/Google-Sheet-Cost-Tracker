@@ -22,9 +22,9 @@ Monitor monthly costs by department and compare them with predefined budgets usi
 - Conditional Formatting
 - Column Chart creation
 - Sheet linking (multi-sheet logic)
-
 ## 🖼 Preview
-![Dashboard Preview](./dashboard_preview.png)
+![Dashboard Preview](./sheets.png)
+
 
 ## ℹ️ Note
 This is an educational simulation of a real-world cost tracking tool built in Excel/Google Sheets.
